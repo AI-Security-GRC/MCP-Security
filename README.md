@@ -64,6 +64,7 @@ MCP presents organizations with a new attack surface and security threats, there
 The decision to use (or not use) MCP largely depends on organizations’ AI security and governance maturity.
 
 
+
 | Requirement   | Yes           |No           |
 | ------------- | ------------- |-------------|
 | 1.	The AI workflow demands dynamic multi-tool and agent-based orchestration  | Proceed to Q2  |Use static orchestrators (e.g., Airflow, Step Functions)| 
