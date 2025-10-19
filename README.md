@@ -61,6 +61,8 @@ flowchart LR
 
 MCP presents organizations with a new attack surface and security threats, therefore, users must check the following guidance before proceeding to the next steps in their MCP adoption journey.
 
+The decision to use (or not use) MCP largely depends on organizations’ AI security and governance maturity.
+
 
 | Requirement   | Yes           |No           |
 | ------------- | ------------- |-------------|
@@ -75,4 +77,3 @@ MCP presents organizations with a new attack surface and security threats, there
 | 9.	The process of goal setting and agent-chaining requires human review of all decisions | Proceed to Q10  | Use MCP with fallback validation and heuristics| 
 | 10.	Golden controls (ISO 42001, NIST AI RMF, OWASP Agentic) in place | Use MCP with lifecycle controls  | Implement controls first or delay MCP adoption | 
 
-Note: The decision to use (or not use) MCP largely depends on organizations’ AI security and governance maturity.
