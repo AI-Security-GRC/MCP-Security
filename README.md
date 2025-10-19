@@ -1,5 +1,5 @@
 # Model Context Protocol (MCP)
-## Security Guideline
+## Security Guidelines
 
 
 ### Introduction 
