@@ -1,5 +1,5 @@
 # Model Context Protocol (MCP)
-## Security Guidelines (v1.0) Author: Amit Sharma
+## Security Guidelines (V1.0) Author: Amit Sharma
 
 
 ### Introduction 
