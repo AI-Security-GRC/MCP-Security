@@ -32,10 +32,6 @@ MCP solves the M×N integration challenge by using a single unified protocol ins
 <img width="660" height="253" alt="471677133-6b71b889-b556-493f-a222-9a3adbdb0690" src="https://github.com/user-attachments/assets/16d79b27-8e2a-47ea-9bd6-ffdeea4604e9" />
 
 
-<img width="660" height="253" alt="image" src="https://github.com/user-attachments/assets/6b71b889-b556-493f-a222-9a3adbdb0690" />
-
-
-
 ```mermaid
 ---
 config:
